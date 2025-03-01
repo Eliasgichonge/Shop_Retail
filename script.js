@@ -6,6 +6,6 @@ document.addEventListener('DOMContentLoaded', function(){
     if(bar){
         bar.addEventListener('click',()=>{
             nav.classList.add('active');
-        })
+        });
     }
 })
