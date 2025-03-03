@@ -1,1 +1,1 @@
-it is about selling clothes online# manguo-shop
+it is about selling clothes online# shop
