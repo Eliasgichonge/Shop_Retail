@@ -289,3 +289,8 @@ body{
     background-size: cover;
     background-position: center;
 }
+
+#banner h4{
+    color: #fff;
+    font-size: 20px;
+}
