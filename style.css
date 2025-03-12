@@ -134,3 +134,9 @@ body{
 .section-p1{
     padding: 40px 80px;
 }
+#feature{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
