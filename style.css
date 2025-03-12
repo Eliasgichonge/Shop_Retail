@@ -189,3 +189,8 @@ body{
 #feature .feature-box:nth-child(5) h6{
     background-color: #f6dbf6;
 }
+
+#feature .feature-box h6:hover{
+    background-color: #088178;
+    color: #fddde4;
+}
