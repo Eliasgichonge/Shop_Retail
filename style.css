@@ -72,3 +72,17 @@ body{
 #close{
     display: none;
 }
+
+/* home page starts here */
+#hero{
+    background-image: url("hero-bg-bg.png");
+    height: 100%;
+    width: 100%;
+    background-position: top 25% right 0;
+    background-size: cover;
+    margin-top: 20px;
+    padding: 300px 20px 420px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;justify-content: center;
+}
