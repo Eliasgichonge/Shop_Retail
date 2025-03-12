@@ -177,3 +177,7 @@ body{
 #feature .feature-box:nth-child(2) h6{
     background-color: #cdebbc;
 }
+
+#feature .feature-box:nth-child(3) h6{
+    background-color: #d1e8f2;
+}
