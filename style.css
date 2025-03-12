@@ -102,3 +102,7 @@ body{
     padding-bottom: 15px;
     font-size: 40px;
 }
+
+#hero span{
+    color: #088178;
+}
