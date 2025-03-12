@@ -119,3 +119,7 @@ body{
     font-size: 15px;
     transition: .5s ease;
 }
+
+#hero p{
+    font-size: 19px;
+}
