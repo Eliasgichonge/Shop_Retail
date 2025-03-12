@@ -224,3 +224,8 @@ body{
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
     transform: scale(1.05);
 }
+
+#product1 .pro img{
+    width: 100%;
+    border-radius: 20px;
+}
