@@ -158,3 +158,8 @@ body{
     transform: scale(1.05);
 
 }
+
+#feature .feature-box img{
+    width: 100%;
+    margin-bottom: 10px;
+}
