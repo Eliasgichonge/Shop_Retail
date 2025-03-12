@@ -219,3 +219,9 @@ body{
     transition: 0.7s ease;
     position: relative;
 }
+
+#product1 .pro:hover{
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+    transform: scale(1.05);
+
+}
